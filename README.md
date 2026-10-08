@@ -236,10 +236,10 @@ DNS records:
 Screenshots:
 
 ```markdown
-![Ping test](images/ping-test.png)
-![Tracert](images/tracert.png)
-![Web page](images/web-page.png)
-![Email](images/email.png)
+![Ping test](/images/ping-test.png)
+![Tracert](/images/tracert.png)
+![Web page](/images/web-page.png)
+![Email](/images/email.png)
 ```
 
 ---
