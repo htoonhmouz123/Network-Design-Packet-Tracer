@@ -233,14 +233,23 @@ DNS records:
 | Path verification | `tracert` between end devices | `[PASS]` |
 | Wireless connectivity | Laptop1 associated with the SSID | `[PASS]` |
 
-Screenshots:
+### Screenshots
 
-```markdown
-![Ping test](/images/ping-test.png)
-![Tracert](/images/tracert.png)
-![Web page](/images/web-page.png)
-![Email](/images/email.png)
-```
+**Ping test**
+
+![Ping test](images/ping-test.png)
+
+**Tracert**
+
+![Tracert](images/tracert.png)
+
+**Web page**
+
+![Web page](images/web-page.png)
+
+**Email**
+
+![Email](images/email.png)
 
 ---
 
